@@ -1,0 +1,1 @@
+This is an automation script written in Python that will organize your downloads folder by item (image, video, doc, etc.). While running, any file you send to the specified route folder will be categorized and sent to target folders depending on its type!
